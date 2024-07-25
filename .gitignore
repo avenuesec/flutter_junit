@@ -1,0 +1,17 @@
+# Files and directories created by pub
+.buildlog
+.packages
+.project
+.pub/
+build/
+**/packages/
+
+# Directory created by dartdoc
+doc/api/
+
+# JetBrains IDE
+.idea
+/.dart_tool/
+
+# Test artifacts
+/tool/actual.xml

@@ -1,0 +1,21 @@
+name: flutter_junit
+version: 2.0.5
+description:
+  Generate JUnit XML reports from dart test runs. Transforms the output of dart or flutter tests to
+  JUnit style XML
+
+dependencies:
+  args: ^2.3.0
+  intl: ^0.18.0
+  testreport: ^2.0.1
+  xml: ^6.5.0
+
+dev_dependencies:
+  test: any
+  lints: ^3.0.0
+
+environment:
+  sdk: ">=2.14.0 <3.0.0"
+
+executables:
+  run:
