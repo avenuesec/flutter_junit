@@ -8,10 +8,3 @@ build/
 
 # Directory created by dartdoc
 doc/api/
-
-# JetBrains IDE
-.idea
-/.dart_tool/
-
-# Test artifacts
-/tool/actual.xml
