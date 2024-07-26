@@ -1,5 +1,5 @@
 name: flutter_junit
-version: 2.0.5
+version: 1.0.0
 description:
   Generate JUnit XML reports from dart test runs. Transforms the output of dart or flutter tests to
   JUnit style XML
@@ -18,4 +18,4 @@ environment:
   sdk: ">=2.14.0 <3.0.0"
 
 executables:
-  run:
+  generate:

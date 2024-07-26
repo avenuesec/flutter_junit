@@ -13,7 +13,7 @@ Para gerar um relatório XML JUnit a partir dos resultados dos testes Dart, siga
 
 2. Converta os resultados do teste JSON para o formato XML JUnit:
     ```sh
-    dart pub global run flutter_junit:run --input exemplo.jsonl --output TEST-relatorio.xml
+    dart pub global run flutter_junit:generate --input exemplo.jsonl --output TEST-relatorio.xml
     ```
 
 ### Exemplo
@@ -62,11 +62,11 @@ Após a instalação, você pode simplificar os comandos:
 Para testes Dart:
 
 ```Shell
-dart test simple_test.dart --reporter json | run
+dart test simple_test.dart --reporter json | generate
 ```
 
 Para executar todos os testes Flutter:
 
 ```Shell
-flutter test --machine | run
+flutter test --machine | generate
 ```
