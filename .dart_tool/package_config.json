@@ -93,9 +93,9 @@
     },
     {
       "name": "intl",
-      "rootUri": "file:///Users/lucasblasi/.pub-cache/hosted/pub.dev/intl-0.18.1",
+      "rootUri": "file:///Users/lucasblasi/.pub-cache/hosted/pub.dev/intl-0.19.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "io",
@@ -326,7 +326,10 @@
       "languageVersion": "2.14"
     }
   ],
-  "generated": "2024-07-26T15:18:25.742497Z",
+  "generated": "2024-10-21T19:49:29.229318Z",
   "generator": "pub",
-  "generatorVersion": "3.3.4"
+  "generatorVersion": "3.5.3",
+  "flutterRoot": "file:///Users/lucasblasi/development/flutter",
+  "flutterVersion": "3.24.3",
+  "pubCache": "file:///Users/lucasblasi/.pub-cache"
 }
